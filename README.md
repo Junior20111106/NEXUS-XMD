@@ -27,7 +27,7 @@
 
 ## 💙 PAIRING SITE GET YOUR SESSION 🟢
 
-[![Pair Code](https://img.shields.io/badge/Google-Pair%20Code-blue?style=for-the-badge&logo=Google)](https://xmd-nexus-pair.onrender.com)
+[![Pair Code](https://img.shields.io/badge/Google-Pair%20Code-blue?style=for-the-badge&logo=Google)](https://nesusxmd-pair-by-pkdriller.onrender.com/)
 
 
 
