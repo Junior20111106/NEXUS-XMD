@@ -1,0 +1,14 @@
+{
+  "user": {
+    "name": "Boy Boy",
+    "phone": "+27675859928",
+    "country": "South Africa",
+    "status": "Active"
+  },
+  "session": {
+    "id": "pk~RApXFCrR#Zs4YETZKObJWZ7PK-otLLUCoszMrydcpcVbI7OGMysY",
+    "created_at": "2025-07-27T13:58:00Z",
+    "expires_in": "7d",
+    "role": "user"
+  }
+}
